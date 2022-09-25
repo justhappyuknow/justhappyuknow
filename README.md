@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @justhappyuknow
 - 👀 I’m interested in space theories, music
-- 🌱 I’m currently learning German and Coding
+- 🌱 I’m currently learning Web development, German and Coding.
+
 
 
 <!---
