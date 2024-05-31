@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer and data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:944/format:webp/0*F4t8-xz-b98ZcvEH.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justhappyuknow&label=Profile%20views&color=0e75b6&style=flat" alt="justhappyuknow" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justhappyuknow" alt="justhappyuknow" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=justhappyuknow" alt="justhappyuknow" /></a> </p>
 
 - 🔭 I’m currently working on **Data Analytics Project**
 
