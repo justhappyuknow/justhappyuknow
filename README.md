@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/justhappyuknow/justhappyuknow/assets/91680767/4c57d9e2-95c2-458b-ba95-b4476b525fad))](https://rishavchanda.io)
+[![MasterHead](https://github.com/justhappyuknow/justhappyuknow/assets/91680767/4c57d9e2-95c2-458b-ba95-b4476b525fad))]
 
 
 <h1 align="center">Hi 👋, I'm Pariyashi Sahu</h1>
