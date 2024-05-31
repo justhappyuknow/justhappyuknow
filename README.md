@@ -1,4 +1,4 @@
-[![MasterHead](/Users/justhappyuknow/Desktop/airtel_intern/make.png)](https://pariyashiportfolio.vercel.app/)
+<img width="1834" alt="Make your README" src="https://github.com/justhappyuknow/justhappyuknow/assets/91680767/4c57d9e2-95c2-458b-ba95-b4476b525fad">
 
 <h1 align="center">Hi 👋, I'm Pariyashi Sahu</h1>
 <h3 align="center">A passionate frontend developer and data analyst from India</h3>
