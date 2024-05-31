@@ -1,9 +1,10 @@
-<img width="1834" height="750" alt="Make your README" src="https://github.com/justhappyuknow/justhappyuknow/assets/91680767/4c57d9e2-95c2-458b-ba95-b4476b525fad">
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/justhappyuknow/justhappyuknow/assets/91680767/4c57d9e2-95c2-458b-ba95-b4476b525fad))](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Pariyashi Sahu</h1>
 <h3 align="center">A passionate frontend developer and data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:944/format:webp/0*F4t8-xz-b98ZcvEH.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=justhappyuknow&label=Profile%20views&color=0e75b6&style=flat" alt="justhappyuknow" /> </p>
 <img src="https://github-profile-trophy.vercel.app/?username=justhappyuknow" alt="justhappyuknow" /></a> </p>
 
 - 🔭 I’m currently working on **Data Analytics Project**
